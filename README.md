@@ -1,0 +1,1 @@
+# slsk-mini-cli
